@@ -1,0 +1,6 @@
+{
+    "cols":20,
+    "rows":20,
+    "probability":0.5,
+    "initTiles":[[5,5],[4,9]]
+}
